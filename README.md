@@ -21,5 +21,9 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: I love eating briyani
 
+:trophy: **[TAU Top 100](https://testautomationu.applitools.com/tau100.html)**  
+
+![TAU100](https://user-images.githubusercontent.com/34835631/87222890-7f35d800-c395-11ea-99f8-50704043988b.PNG)
+
 [Click here to view my GitHub Profile Summary](https://profile-summary-for-github.com/user/bh4rath)
 
