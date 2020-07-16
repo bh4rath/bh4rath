@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**bh4rath/bh4rath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-
 🔭 I'm a software tester and Test Automation Enthusiast
 
 🌱 I enjoy testing and automating web/mobile apps using Selenium with Java
@@ -27,3 +22,4 @@ Here are some ideas to get you started:
 
 [Click here to view my GitHub Profile Summary](https://profile-summary-for-github.com/user/bh4rath)
 
+![image](https://user-images.githubusercontent.com/34835631/87632009-229c3980-c756-11ea-8f4c-5cc622db1878.png)
