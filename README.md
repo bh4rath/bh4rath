@@ -14,7 +14,7 @@
 <p><a href="https://github.com/bh4rath" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/BharathGates" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/bug-catcher/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 
-:trophy: **[TAU Top 100](https://testautomationu.applitools.com/tau100.html)**  
+:trophy: <h1>[TAU Top 100](https://testautomationu.applitools.com/tau100.html)</h1> 
 
 ![TAU100](https://user-images.githubusercontent.com/34835631/87222890-7f35d800-c395-11ea-99f8-50704043988b.PNG)
 
